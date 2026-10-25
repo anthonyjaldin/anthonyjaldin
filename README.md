@@ -129,6 +129,5 @@ In Progress | Expected December 2026
 
 ## Connect
 
-**LinkedIn:** Add LinkedIn URL  
 **GitHub:** https://github.com/anthonyjaldin  
 **Email:** a.jaldinguz20@gmail.com
